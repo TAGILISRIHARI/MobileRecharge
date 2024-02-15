@@ -1,0 +1,1280 @@
+	---------------------------------------------------------
+	---------------------------------------------------------
+
+		========> RELAX AND RECHARGE <==========
+
+	----------------------------------------------------------
+	----------------------------------------------------------
+
+	Enter Yes OR [Y] to continue,  No OR [N] to exit : y
+
+
+	Wellcome User follow below Steps to continue
+	1.Recharge Your Mobile
+	2.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+	Enter your Mobile Number: 8069013114
+	--------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+
+	Select your SIM {operator} type 
+	1. Jio
+	2. Airtel
+	3. V!
+	4. BSNL
+	5. Change Mobile Number
+	6. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	--------------------------------------------------------------------------------------------
+
+				======>  V! Recharge Plans  <======
+
+	--------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  121 MADE FOR YOU
+	2.  POPULAR
+	3.  CRICKET PLANS
+	4.  HERO UNLIMITED
+	5.  ADD ON DATA
+	6.  UNLIMITED
+	7.  COMBO
+	8.  PLAN VOUCHER
+	9.  TALKTIME
+	10. INTERNATIONAL ROAMING
+	11. I know`My Plan
+	12. Change Operator
+	13. Go To Main Menu
+	14. Change Mobile Number 
+	15. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  121 MADE FOR YOU  <======
+
+	--------------------------------------------------------------------------------------------
+
+	Disney+ Hotstar
+	₹151		Data:			Validity:
+	      		8GB			30 days
+	ADD-ON Data pack-8 GB Data for 30 days & Dinsey+ Hotstar Mobile subscription
+	for 3 months. No Service Validity
+	--------------------------------------------------------------------------------------------
+	₹181		Data:			Validity:
+	      		1GB/day			30 days
+	ADD-ON Data pack- 1GB/day for 30 Days. NO Service Validity.
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹839		Data:			Validity:
+	      		2GB/Day			84 Days
+	3 months Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹1,799		Data:			Validity:
+	      		24GB			365 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹2,999		Data:			Validity:
+	      		850GB			365 Days
+	Exclusive
+	12am to 6 am Unlimited Data
+	Truly Unlimited Local & National calls + 300 SMS
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹3,099		Data:			Validity:
+	      		2GB/Day			365 Days
+	1yr Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  V! Recharge Plans  <======
+
+	--------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  121 MADE FOR YOU
+	2.  POPULAR
+	3.  CRICKET PLANS
+	4.  HERO UNLIMITED
+	5.  ADD ON DATA
+	6.  UNLIMITED
+	7.  COMBO
+	8.  PLAN VOUCHER
+	9.  TALKTIME
+	10. INTERNATIONAL ROAMING
+	11. I know`My Plan
+	12. Change Operator
+	13. Go To Main Menu
+	14. Change Mobile Number 
+	15. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 6
+	--------------------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  UNLIMITED <======
+
+	--------------------------------------------------------------------------------------------
+
+	₹198		Talktime:		Data:			Validity:
+	      		₹198			500 MB			30 Days
+	Call charges apply at 2.5p/sec. Post quota usage, data charges apply at
+	50p/MB
+	--------------------------------------------------------------------------------------------
+	₹299		Data:			Validity:
+	      		1.5GB/Day		28 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹155		Data:			Validity:
+	      		1GB			24 Days
+	Get MORE for LESS! Recharge with Rs.155 instead of Rs99 and enjoy
+	Unlimited Local & National Calls + 300 SMS for 24 days
+	--------------------------------------------------------------------------------------------
+	₹269		Data:			Validity:
+	      		 1GB/day		28 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹239		Data:			Validity:
+	      		1GB/Day			18 Days
+	Truly Unlimited Local & National Calls + 100 SMS/Day
+	--------------------------------------------------------------------------------------------
+	₹199		Data:			Validity:
+	      		1GB/Day			18 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	----------------------------------------------------------------------------------------------
+	₹599		Data:			Validity:
+	      		1.5GB/Day		70 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV, Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	3GB per Day
+	₹699		Data:			Validity:
+	      		3GB/Day			56 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹409		Data:			Validity:
+	      		3.5GB/Day		28 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹475		Data:			Validity:
+	      		4GB/Day			28 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹2899		Data:			Validity:
+	      		1.5GB/Day		365 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹666		Data:			Validity:
+	      		1.5GB/Day		77 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹399		Data:			Validity:
+	      		2.5GB/Day		28 Days
+	3 months Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	~₹270 per 28 Days
+	₹539		Data:			Validity:
+	      		2GB/Day			56 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹839		Data:			Validity:
+	      		2GB/Day			84 Days
+	3 months Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹1,449		Data:			Validity:
+	      		1.5GB/Day		180 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹601		Data:				Validity:
+	      		3GB/Day+ 16 GB Extra		28 Days
+	1yr Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹901		Data:				Validity:
+	      		2GB/Day	+ 48 GB Extra	 	70 Days
+	1yr Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹3,099		Data:			Validity:
+	      		2GB/Day			365 Days
+	1yr Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹1,799		Data:			Validity:
+	      		24GB			365 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹209		Data:			Validity:
+	      		4GB			28 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹329		Data:			Validity:
+	      		4GB			56 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹459		Data:			Validity:
+	      		6GB			84 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹219		Data:			Validity:
+	      		1GB/Day			21 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹537		Data:			Validity:
+	      		50GB			60 Days
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	~₹240 per 28 Days
+	₹479		Data:			Validity:
+	      		1.5GB/Day		56 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹368		Data:			Validity:
+	      		2GB/Day			30 Days
+	30 Day SUNNXT Subscription
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹195		Data:			Validity:
+	      		3GB			1 Month
+	Truly Unlimited Local & National calls + 300 SMS
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹296		Data:			Validity:
+	      		25GB			30 Days
+	Truly Unlimited Local & National calls + 300 SMS
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	₹319		Data:			Validity:
+	      		2GB/Day			1 Month
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹359		Data:			Validity:
+	      		3GB/Day			28 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹499		Data:			Validity:
+	      		3GB/Day			28 Days
+	3 months Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	~₹240 per 28 Days
+	₹719		Data:			Validity:
+	      		1.5GB/Day		84 Days
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹902		Data:			Validity:
+	      		2GB/Day			90 Days
+	90 Day SunNXT Subscription
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	New Pack
+	₹903		Data:			Validity:
+	      		2GB/Day			90 Days
+	90 Day SunNXT Subscription
+	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹949		Data:			Validity:
+	      		12GB			84 Days
+	Truly Unlimited Local & National calls + 300 SMS
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹1,066		Data:			Validity:
+	      		2GB/Day			84 Days
+	1yr Disney+ Hotstar Mobile subcription	Exclusive- Vi Hero Unlimited
+	12am to 6 am Unlimited Data
+	Carry unused Data from Mon-Fri into the weekend
+	Up to 2 GB backup data/month
+	Truly Unlimited Local & National calls + 100 SMS/Day
+	Additional Benefits : Binge All Night,  Vi Movies & TV , Weekend Data Rollover, Data Delights
+	--------------------------------------------------------------------------------------------
+	₹2,999		Data:			Validity:
+	      		850GB			365 Days
+	Exclusive
+	12am to 6 am Unlimited Data
+	Truly Unlimited Local & National calls + 300 SMS
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------------------
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 195
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	--------------------------------------------------------------------------------------------
+
+				======>  Your Pack Details  <======
+				======>         V!          <======
+	--------------------------------------------------------------------------------------------
+
+	₹195		Data:			Validity:
+	      		3GB			1 Month
+	Truly Unlimited Local & National calls + 300 SMS
+	Additional Benefits : Vi Movies & TV
+	--------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  All Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1. UPI
+	2. CREDIT/DEBIT  CARD
+	3. Change Recharge Plan
+	4. Return to Main Menu
+	5. Cancel Payment & Exit
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  All Card Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Credit Card
+	2.Debit Card
+	3.Change Payment Option
+	4.Return to Main Menu
+	5.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  Credit Card Payment  <======
+
+	---------------------------------------------------------------------------------------------
+	Enter your Credit Card Number: 6789543256784
+	-------------------------------------------------------
+	Card Number is Not Valid Re-Enter Your Card Number
+	--------------------------------------------------------------------------------------------
+
+				======>  Credit Card Payment  <======
+
+	---------------------------------------------------------------------------------------------
+	Enter your Credit Card Number: 3498923901832
+	-------------------------------------------------------
+	Card Number is Not Valid Re-Enter Your Card Number
+	--------------------------------------------------------------------------------------------
+
+				======>  Credit Card Payment  <======
+
+	---------------------------------------------------------------------------------------------
+	Enter your Credit Card Number: 13e7839856
+	---------------------------------------------------------------------------------------------
+	Your input is not valid, Please Re-Enter a valid Input
+	---------------------------------------------------------------------------------------------
+	Enter your Credit Card Number: 21849842093132
+	-------------------------------------------------------
+	Card Number is Not Valid Re-Enter Your Card Number
+	--------------------------------------------------------------------------------------------
+
+				======>  Credit Card Payment  <======
+
+
+	=========================================================================
+	Your have entered maximum number of wrong attempts, Redirecting back
+	===========================================================================
+	--------------------------------------------------------------------------------------------
+
+				======>  All Card Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Credit Card
+	2.Debit Card
+	3.Change Payment Option
+	4.Return to Main Menu
+	5.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  Credit Card Payment  <======
+
+	---------------------------------------------------------------------------------------------
+	Enter your Credit Card Number: 8734762390183452
+	-------------------------------------------------------
+	Valid till 
+	 MM: 10
+	 YY: 23
+	-------------------------------------------------------
+	Not valid Re-Enter Your Details
+	-------------------------------------------------------
+	Valid till 
+	 MM: 01
+	 YY: 23
+	-------------------------------------------------------
+	Not valid Re-Enter Your Details
+	-------------------------------------------------------
+	Valid till 
+	 MM: 06
+	 YY: 22
+	-------------------------------------------------------
+	Not valid Re-Enter Year
+	 YY: 21
+	-------------------------------------------------------
+	Not valid Re-Enter Year
+	 YY: 2019
+	-------------------------------------------------------
+	Not valid Re-Enter Year
+
+	=========================================================================
+	Your have entered maximum number of wrong attempts, Redirecting back
+	===========================================================================
+	--------------------------------------------------------------------------------------------
+
+				======>  All Card Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Credit Card
+	2.Debit Card
+	3.Change Payment Option
+	4.Return to Main Menu
+	5.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  Credit Card Payment  <======
+
+	---------------------------------------------------------------------------------------------
+	Enter your Credit Card Number: 8734762390183452
+	-------------------------------------------------------
+	Valid till 
+	 MM: 09
+	 YY: 24
+	-------------------------------------------------------
+	Enter Your CVV : 232
+	------------------------------------------------------
+
+	Verifying  Your Credit Card details⌛⌛⏳⌛⏳
+	------------------------------------------------------
+
+	-------------------------------------------------------
+	1. Proceed Payment
+	2. Re-Enter Card Details
+	3. Return to All Payments Option
+	4. Cancel Payment And Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+
+	Customer, 594901 is the OTP for your autenticatication for amount Rs.195.00 
+	of your Credit card transaction for making payment.
+	Do Not Share OTP.
+	-------------------------------------------------------
+
+	Please Enter Your OTP Number: 3274221
+	----------------------------------------------------------------------------
+
+	Verifying OTP ⌛⌛⏳⌛⏳
+	------------------------------------------------------
+
+	-------------------------------------------------------
+
+	OTP is In-correct Re-Enter Your OTP Number
+	-------------------------------------------------------
+
+	Please Enter Your OTP Number: 231122
+	----------------------------------------------------------------------------
+
+	Verifying OTP ⌛⌛⏳⌛⏳
+	------------------------------------------------------
+
+	-------------------------------------------------------
+
+	OTP is In-correct Re-Enter Your OTP Number
+	-------------------------------------------------------
+
+	Please Enter Your OTP Number: 1234567
+	----------------------------------------------------------------------------
+
+	Verifying OTP ⌛⌛⏳⌛⏳
+	------------------------------------------------------
+
+	-------------------------------------------------------
+
+	OTP is In-correct Re-Enter Your OTP Number
+
+	==============================================================================
+	Your have entered maximum number of wrong attempts , Redirecting back Please try again
+	================================================================================
+	Select below options to continue
+	1. Re-Send OTP
+	2. Re-Enter card Details
+	3. Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+
+	-------------------------------------------------------
+
+	-------------------------------------------------------
+
+	Customer, 743989 is the OTP for your autenticatication for amount Rs.195.00 
+	of your Credit card transaction for making payment.
+	Do Not Share OTP.
+	-------------------------------------------------------
+
+	Please Enter Your OTP Number: 594901
+	----------------------------------------------------------------------------
+
+	Verifying OTP ⌛⌛⏳⌛⏳
+	------------------------------------------------------
+
+	-------------------------------------------------------
+
+	OTP is In-correct Re-Enter Your OTP Number
+	-------------------------------------------------------
+
+	Please Enter Your OTP Number: 743989
+	----------------------------------------------------------------------------
+
+	Connecting Securly 🕕🕒🕓🕔🕕🕖
+	------------------------------------------------------------
+
+	Your Credit card no. XXXXXXXXXXXX3452 is debited for Rs.195.00 on 
+	08-11-2023 18:08:05 (Ref no 354878828045).
+
+
+	Recharge of INR 195.00 is successful for your V!  Mobile 8069013114
+ 	on 08-11-2023 18:08:11, Transaction ID 404149630
+.
+	------------------------------------------------------------------------------
+			 Thanks For Choosing Us
+			         V!
+
+	-------------------------------------------------------
+	Recharge a different Mobile Number
+	1. Yes
+	2. No
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+	Enter your Mobile Number: mobile
+	-------------------------------------------------------
+	Your input is not valid, Please Re-Enter a valid Input
+	-------------------------------------------------------
+	Enter your Mobile Number: 9948257854
+	--------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+
+	Select your SIM {operator} type 
+	1. Jio
+	2. Airtel
+	3. V!
+	4. BSNL
+	5. Change Mobile Number
+	6. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  Jio Recharge Plans  <======
+
+	--------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  POPULAR
+	2.  DATA ADD ON
+	3.  ENTERTAINMENT
+	4.  SMART PHONE
+	5.  JIOBHARATH
+	6.  JIOPHONE
+	7.  ISD/ROAMING
+	8.  TOP UP
+	9.  ALL PLANS
+	10. I know`My Plan
+	11. Go To Main Menu
+	12. Change Operator 
+	13. Change Mobile Number
+	14. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	-------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+				======>  ENTERTAINMENT  <======
+	--------------------------------------------------------------------------------------------
+
+	Disney+ Hotstar
+	₹388		Data:			Validity:
+	     		2 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹808		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Netflix Mobile
+	₹1,099		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Netflix (Basic)
+	Additional Benefits: Netflix (Basic) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹789		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to JioSaavn Pro
+	Note: To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number
+	Additional Benefits: JioSaavn Pro (Music & More) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹909		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Zee5 & Sony LIV 
+	Additional Benefits: Zee5 , Sony LIV , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹805		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Zee5
+	Additional Benefits: Zee5 , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹806		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Sony LIV
+	Additional Benefits: Sony LIV , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Netflix Mobile
+	₹1,499		Data:			Validity:
+	     		3 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Netflix (Basic)
+	Additional Benefits: Netflix (Basic) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹529		Data:			Validity:
+	     		1.5 GB/day		56 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to JioSaavn Pro
+	Note: To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number
+	Additional Benefits: JioSaavn Pro (Music & More) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹758		Data:			Validity:
+	     		1.5 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹589		Data:			Validity:
+	     		2 GB/day		56 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to JioSaavn Pro	Note: To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number
+	Additional Benefits: JioSaavn Pro (Music & More) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	----------------------------------------------------------------------------------------------------------------------------------------------------
+	₹598 		Data:			Validity:
+	     		2 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹3,225		Data:			Validity:
+	     		2 GB/day		365 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Zee5
+	Additional Benefits: Zee5 , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹3,226		Data:			Validity:
+	     		2 GB/day	 365 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Sony LIV
+	Additional Benefits: Sony LIV , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹3,178		Data:			Validity:
+	     		2 GB/day		365 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 1 Year
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹739		Data:			Validity:
+	     		1.5 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to JioSaavn Pro
+	Note: To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number
+	Additional Benefits: JioSaavn Pro (Music & More) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹328		Data:			Validity:
+	     		1.5 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹269		Data:			Validity:
+	     		1.5 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to JioSaavn Pro
+	Note: To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number
+	Additional Benefits: JioSaavn Pro (Music & More) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹3,227		Data:			Validity:
+	     		2 GB/day		365 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Amazon Prime Video Mobile Edition(Included)
+	Additional Benefits: Amazon Prime Video Mobile Edition , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	------------------------------------------------------------------------------------------------------------------------------------------
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  Jio Recharge Plans  <======
+
+	--------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  POPULAR
+	2.  DATA ADD ON
+	3.  ENTERTAINMENT
+	4.  SMART PHONE
+	5.  JIOBHARATH
+	6.  JIOPHONE
+	7.  ISD/ROAMING
+	8.  TOP UP
+	9.  ALL PLANS
+	10. I know`My Plan
+	11. Go To Main Menu
+	12. Change Operator 
+	13. Change Mobile Number
+	14. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 7
+	-------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+				======>  ISD/ROAMING  <======
+	--------------------------------------------------------------------------------------------
+
+	ISD Plan
+	₹501		Validity:
+	     		28 Days
+	ISD Talktime Rs.424.58 and 5 ISD SMS
+	Talktime can be used only for making ISD calls and ISD SMS while in India.
+	For ISD Call rates, visit https://www.jio.com/jio-isd-recharge-plans
+	----------------------------------------------------------------------------------
+	₹499		Validity:
+	     		1 Day
+	IR Travel Pass
+	Outgoing Calls to INdia & Local : 100mins
+	Incoming Call: FREE
+	Mobile Data: 250 MB/day high speed data thereafter unlimited at 64kbs
+	SMS: 100
+	Validity: 1day
+	Applicable in top 32 countries including US, UK, UAE, Saudi, Canada,
+	Thailand, Singapore, Germany etc.
+	Please visit https://www.jio.com/selfcare/plans/mobility/jio-international
+	-roaming-plans/?country=check for more details on country and partner network.
+	----------------------------------------------------------------------------------
+	₹1,101		Validity:
+	     		28 Days
+	Global Pack without WIfi Calling
+	Monetary value of Rs.933.05 and 5 ISD SMS. Monetary Value can be used
+	on International Roaming in around 130+ countries. Validity =: 28 days. 
+	For more information on covered countries , visit https://www.jio.com/
+	/selfcare/plans/mobility/jio-international-roaming-plans/?country=check
+	----------------------------------------------------------------------------------
+	₹1,102		Validity:
+	     		28 Days
+	Global Pack with WIfi Calling
+	Monetary value of Rs.933.90 and 5 ISD SMS. Monetary Value can be used
+	on International Roaming in around 130+ countries. Validity =: 28 days. 
+	For more information on covered countries , visit https://www.jio.com/
+	/selfcare/plans/mobility/jio-international-roaming-plans/?country=check
+	----------------------------------------------------------------------------------
+	₹2,499		Validity:
+	     		10 Days
+	IR Travel Pass
+	Outgoing Calls to INdia & Local : 100mins/day
+	Incoming Call: FREE
+	Mobile Data: 250 MB/day high speed data thereafter unlimited at 64kbs
+	SMS: 100/day
+	Validity: 10days
+	Applicable in top 32 countries including US, UK, UAE, Saudi, Canada,
+	Thailand, Singapore, Germany etc.
+	Please visit https://www.jio.com/selfcare/plans/mobility/jio-international
+	-roaming-plans/?country=check for more details on country and partner network.
+	----------------------------------------------------------------------------------
+	₹4,999		Validity:
+	     		30 Days
+	IR Travel Pass
+	Outgoing Calls to INdia & Local : 1500 mins/
+	Incoming Call: FREE
+	Mobile Data: 5 GB  high speed data thereafter unlimited at 64kbs
+	SMS: 1500/day
+	Validity: 30days
+	Applicable in top 32 countries including US, UK, UAE, Saudi, Canada,
+	Thailand, Singapore, Germany etc.
+	Please visit https://www.jio.com/selfcare/plans/mobility/jio-international
+	-roaming-plans/?country=check for more details on country and partner network.
+	----------------------------------------------------------------------------------
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 12
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Plan is not valid
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 0
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Plan is not valid
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 11
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Plan is not valid
+
+	=========================================================================
+	Your have entered maximum number of wrong attempts, Redirecting back
+	===========================================================================
+	--------------------------------------------------------------------------------------------
+
+				======>  Jio Recharge Plans  <======
+
+	--------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  POPULAR
+	2.  DATA ADD ON
+	3.  ENTERTAINMENT
+	4.  SMART PHONE
+	5.  JIOBHARATH
+	6.  JIOPHONE
+	7.  ISD/ROAMING
+	8.  TOP UP
+	9.  ALL PLANS
+	10. I know`My Plan
+	11. Go To Main Menu
+	12. Change Operator 
+	13. Change Mobile Number
+	14. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+				======>  POPULAR  <======
+	--------------------------------------------------------------------------------------------
+
+	Best Seller (Data Addon)
+	₹19		Data:			Validity:
+	     		1 GB/day		Base Plan
+	For users with active validity plan
+	----------------------------------------------
+	Favourite | 2GB/day
+	₹299		Data:			Validity:
+	     		2 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Best Seller
+	₹749		Data:			Validity:
+	     		2 GB/day		 90 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Trending | 1.5GB/day
+	₹239		Data:			Validity:
+	     		1.5 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹388		Data:			Validity:
+	     		2 GB/day		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹2,999		Data:			Validity:
+	     		2.5 GB/day		365 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Netflix Mobile
+	₹1,099		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription to Netflix (Basic)
+	Additional Benefits: Netflix (Basic) , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Disney+ Hotstar
+	₹808		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Subscription Dinsney+ Hotstar Mobile for 3 Months
+	Disney+ Hotstar T&C: http://tiny.jio.com/r457tjl
+	Additional Benefits: Disney+ Hotstar Mobile , JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Offer: Extra Data
+	₹399		Data:			Validity:
+	     		3GB/day+6GB		28 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Favourite | 2GB/day
+	₹719		Data:			Validity:
+	     		2 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	Trending | 1.5GB/day
+	₹666		Data:			Validity:
+	     		1.5 GB/day		84 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	₹219		Data:			Validity:
+	     		3GB/day+2GB		14 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 749
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	--------------------------------------------------------------------------------------------
+
+				======>  Your Pack Details  <======
+				======>        Jio          <======
+	--------------------------------------------------------------------------------------------
+
+	Best Seller
+	₹749		Data:			Validity:
+	     		2 GB/day		 90 Days
+	Voice: Unlimited Calls | SMS: 100 SMS/day
+	Additional Benefits: JioCinema(Sports & Movies) , Jio TV (Your daily dose of entertainment) , JioCould
+	-------------------------------------------------------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  All Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1. UPI
+	2. CREDIT/DEBIT  CARD
+	3. Change Recharge Plan
+	4. Return to Main Menu
+	5. Cancel Payment & Exit
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  All Card Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Credit Card
+	2.Debit Card
+	3.Change Payment Option
+	4.Return to Main Menu
+	5.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  Debit Card Payment  <======
+
+	--------------------------------------------------------------------------------------------
+	Enter your Debit Card Number: 9087123456783765
+	-------------------------------------------------------
+	Valid till 
+	 MM: 11
+	 YY: 22
+	-------------------------------------------------------
+	Not valid Re-Enter Year
+	 YY: 23
+	-------------------------------------------------------
+	Enter Your CVV : 908
+	------------------------------------------------------
+
+	Verifying Your Debit Card details⌛⌛⏳⌛⏳
+	------------------------------------------------------
+
+	-------------------------------------------------------
+	1. Proceed Payment
+	2. Re-Enter Card Details
+	3. Return to All Payments Option
+	4. Cancel Payment And Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+
+	Customer, 361703 is the OTP for your autenticatication for amount Rs.749.00 
+	of your Debit card transaction for making payment.
+	Do Not Share OTP.
+	-------------------------------------------------------
+
+	Please Enter Your OTP Number: 361703
+	----------------------------------------------------------------------------
+
+	Connecting Securly 🕕🕒🕓🕔🕕🕖
+	------------------------------------------------------------
+
+	Your Debit card no. XXXXXXXXXXXX3765 is debited for Rs.749.00 on 
+	08-11-2023 18:10:36 (Ref no 704220225089).
+
+
+	Recharge of INR 749.00 is successful for your Jio  Mobile 9948257854
+ 	on 08-11-2023 18:10:42, Transaction ID 382640529
+.
+	------------------------------------------------------------------------------
+			 Thanks For Choosing Us
+			         Jio
+
+	-------------------------------------------------------
+	Recharge a different Mobile Number
+	1. Yes
+	2. No
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+
+	=================================================================
+			         Exit was Successfull
+			           Java is awesome
+	=================================================================

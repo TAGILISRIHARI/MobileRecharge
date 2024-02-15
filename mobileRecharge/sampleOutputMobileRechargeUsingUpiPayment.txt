@@ -1,0 +1,1073 @@
+	---------------------------------------------------------
+	---------------------------------------------------------
+
+		========> RELAX AND RECHARGE <==========
+
+	----------------------------------------------------------
+	----------------------------------------------------------
+
+	Enter Yes OR [Y] to continue,  No OR [N] to exit : start
+	-------------------------------------------------------
+	Invalid Option
+
+	---------------------------------------------------------
+	---------------------------------------------------------
+
+		========> RELAX AND RECHARGE <==========
+
+	----------------------------------------------------------
+	----------------------------------------------------------
+
+	Enter Yes OR [Y] to continue,  No OR [N] to exit : s
+	-------------------------------------------------------
+	Invalid Option
+
+	---------------------------------------------------------
+	---------------------------------------------------------
+
+		========> RELAX AND RECHARGE <==========
+
+	----------------------------------------------------------
+	----------------------------------------------------------
+
+	Enter Yes OR [Y] to continue,  No OR [N] to exit : yes
+
+
+	Wellcome User follow below Steps to continue
+	1.Recharge Your Mobile
+	2.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	-----------------------------------------------------------
+	Please Select a valid Option Only
+
+
+	Wellcome User follow below Steps to continue
+	1.Recharge Your Mobile
+	2.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+	Enter your Mobile Number: 987654321
+	-------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Please Enter a valid Mobile number
+	-------------------------------------------------------
+	Enter your Mobile Number: 1234567890
+	-------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Please Enter a valid Mobile number
+	-------------------------------------------------------
+	Enter your Mobile Number: 5678912347
+	-------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Please Enter a valid Mobile number
+
+
+	Wellcome User follow below Steps to continue
+	1.Recharge Your Mobile
+	2.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+	Enter your Mobile Number: 6301602876
+	--------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+
+	Select your SIM {operator} type 
+	1. Jio
+	2. Airtel
+	3. V!
+	4. BSNL
+	5. Change Mobile Number
+	6. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  Airtel Recharge Plans  <======
+
+	---------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  POPULAR
+	2.  WORLD CUP PACKS
+	3.  TRULY UNLIMITED
+	4.  DATA
+	5.  ENTERTAINMENT
+	6.  TALKTIME (TOP UP VOUCHER)
+	7.  INTERNATIONAL ROAMING
+	8.  I know`My Plan
+	9.  Change Operator
+	10. Go To Main Menu
+	11. Change Mobile Number 
+	12. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	-------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  TRULY UNLIMITED  <======
+
+	--------------------------------------------------------------------------------------------
+
+	₹3359		Data:			Validity:
+	     		2.5 GB per day		365 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data  : 2.5GB/day
+	SMS   : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Disney+Hotstar Mobile for 1 year, Apollo 24/7 Cricle, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹2,999		Data:			Validity:
+	      		2.0 GB per day		365 day
+	Calls : Unlimited calls local STD & Roaming
+	Data : 2GB/day 
+	Additional Benefits :Unlimited 5G Data, Apollo 24/7 Cricle, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹1799		Data:			Validity:
+	      		24 GB per pack		365 day
+	Calls: Unlimited
+	Data : 24GB
+	SMS  : 100SMS/day
+	Validity: 365 days
+	Additional Benefits :Apollo 24/7 Cricle, Free Hellotunes
+	--------------------------------------------------------------------------------------------
+	₹999		Data:			Validity:
+	      		2.5 GB per day		84 day
+	Calls : Unlimited calls local STD & Roaming  calls
+	Data : 2.5GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstremPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹839		Data:			Validity:
+	      		2.0 GB per day		84 day
+	Calls : Unlimited calls local STD 
+	Data : 2GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstremPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹779		Data:			Validity:
+	      		1.5 GB per day		90 day
+	Calls : Unlimited calls local STD & Roaming calls on any network in India
+	Data : 2.5GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Apollo 24/7 Cricle, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹719		Data:			Validity:
+	      		2.0 GB per day		84 day
+	Calls : Unlimited
+	Data : 2GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹699		Data:			Validity:
+	      		3.0 GB per day		56 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 3GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹666		Data:			Validity:
+	      		1.5 GB per day		86 day
+	Calls : Unlimited
+	Data : 1.5GB/day 
+	SMS  : 100SMS/day
+	Validity : 84 days
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay,Apollo 24/7 Cricle, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹549		Data:			Validity:
+	      		2.0 GB per day		56 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 2GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay,Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹519		Data:			Validity:
+	      		1.5 GB per day		60 day
+	Calls : Unlimited calls local STD & Roaming calls on any network in India
+	Data : 1.5GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay,Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹499		Data:			Validity:
+	      		3.0 GB per day		28 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 3GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹479		Data:			Validity:
+	      		1.5 GB per day		56 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 1.5GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹455		Data:			Validity:
+	      		6.0 GB per pack		84 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 6GB 
+	SMS  : 900
+	Details :Only Rs.152/month(approx)
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay,Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹399		Data:			Validity:
+	      		3.0 GB per day		28 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 3GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay,Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹359		Talktime:		Data:			Validity:
+	    		₹5      		2.0 GB per day		1 month
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 3GB/day 
+	SMS  : 100SMS/day
+	Talktime : Rs.5
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹319		Data:			Validity:
+	      		2.0 GB per day		1 month
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 2GB/day 
+	SMS  : 100SMS/day
+	Validity : 1 month
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay,Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹299		Data:			Validity:
+	      		2.0 GB per day		28 days
+	Calls : Unlimited
+	Data : 2GB/day 
+	SMS  : 100SMS/day
+	Validity : 28 days
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹296		Data:			Validity:
+	      		25.0 GB per pack		30 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 25GB 
+	SMS  : 100SMS/day
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹239		Data:			Validity:
+	      		1.5 GB per pack		28 day
+	Calls : Unlimited
+	Data : 1.5GB 
+	SMS  : 100SMS/day
+	Validity : 28 days
+	Additional Benefits :Unlimited 5G Data, Airtel XstreamPlay, Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹209		Data:			Validity:
+	      		1.0 GB per pack		21 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 1GB/day 
+	SMS  : 100SMS/day
+	Additional Benefits :Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹155		Data:			Validity:
+	      		1.0 GB per pack		28 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 1GB 
+	SMS  : 300
+	Additional Benefits :Free Hellotunes,Wynk Music Free
+	--------------------------------------------------------------------------------------------
+	₹179		Data:			Validity:
+	      		2.0 GB per pack		28 day
+	Calls : Unlimited calls local STD & Roaming 
+	Data : 2GB 
+	SMS  : 300
+	Additional Benefits : Free Hellotunes,Wynk Music Free
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  Airtel Recharge Plans  <======
+
+	---------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  POPULAR
+	2.  WORLD CUP PACKS
+	3.  TRULY UNLIMITED
+	4.  DATA
+	5.  ENTERTAINMENT
+	6.  TALKTIME (TOP UP VOUCHER)
+	7.  INTERNATIONAL ROAMING
+	8.  I know`My Plan
+	9.  Change Operator
+	10. Go To Main Menu
+	11. Change Mobile Number 
+	12. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 4
+	-------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  DATA  <======
+
+	--------------------------------------------------------------------------------------------
+
+	₹301		Data:
+	     		50.0 GB per pack
+	Data : 50GB 
+	Validity  : Current Pack validity
+	Details   :Wynk Premium subscription for 1Year
+	Additional Benefits :Wynk Music Premium
+	--------------------------------------------------------------------------------------------
+	₹149		Data:
+	     		1.0 GB per pack
+	Data : 1.0 GB 
+	Details   : 15+ OTTs with Xstream Premium on Airtel Xstream App
+	Additional Benefits :Airtel Xstream Play
+	--------------------------------------------------------------------------------------------
+	₹148		Data:
+	     		15.0 GB per pack
+	Data : 15.0 GB 
+	Validity  : Till Your existing pack
+	Details   : Access to all 15+OTTs an Airtel Xstream Play(SonyLIV, Erosnow etc) for 28 days
+	Additional Benefits :Airtel Xstream Play
+	--------------------------------------------------------------------------------------------
+	₹98		Data:
+	     		5.0 GB per pack
+	Data : 5.0 GB 
+	Validity  : Current Pack valadity
+	Details   : Wynk Premium subscription for 30days
+	Additional Benefits :Wynk Music Premium
+	--------------------------------------------------------------------------------------------
+	₹181		Data:			Validity:
+	     		1.0 GB per day		30 day
+	Data : 1GB/day
+	--------------------------------------------------------------------------------------------
+	₹118		Data:
+	     		12.0 GB per pack
+	Data : 12GB
+	--------------------------------------------------------------------------------------------
+	₹99		Validity:
+	     		2 Day
+	Data : Unlimited
+	--------------------------------------------------------------------------------------------
+	₹65		Data:
+	     		4.0 GB per pack
+	Data : 4GB 
+	Validity : Till your exiting pack
+	--------------------------------------------------------------------------------------------
+	₹58		Data:
+	     		3.0 GB per pack
+	Data : 3GB
+	--------------------------------------------------------------------------------------------
+	₹49		Data:			Validity:
+	     		6.0 GB per pack		1 Day
+	Data : 6GB
+	--------------------------------------------------------------------------------------------
+	₹29		Data:			Validity:
+	     		2.0 GB per pack		1 Day
+	Data : 2GB
+	--------------------------------------------------------------------------------------------
+	₹19		Data:			Validity:
+	     		1.0 GB per day		1 Day
+	Data : 1GB 
+	Validity: 1 day
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 301
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	--------------------------------------------------------------------------------------------
+
+				======>  Your Pack Details  <======
+				======>       Airtel        <======
+	--------------------------------------------------------------------------------------------
+
+	₹301		Data:
+	     		50.0 GB per pack
+	Data : 50GB 
+	Validity  : Current Pack validity
+	Details   :Wynk Premium subscription for 1Year
+	Additional Benefits :Wynk Music Premium
+	--------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  All Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1. UPI
+	2. CREDIT/DEBIT  CARD
+	3. Change Recharge Plan
+	4. Return to Main Menu
+	5. Cancel Payment & Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  All UPI Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Google Pay
+	2.Phone Pay
+	3.Paytm
+	4.Change Payment Option
+	5.Return to Main Menu
+	6.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  Wellcome to PhonePay  <======
+
+	--------------------------------------------------------------------------------------------
+	Enter UPI number: 1234567890
+	--------------------------------------------------------------------------------------------
+
+	Verifying UPI Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	Please Enter a valid UPI Number Only
+	--------------------------------------------------------------------------------------------
+
+				======>  Wellcome to PhonePay  <======
+
+	--------------------------------------------------------------------------------------------
+	Enter UPI number: 6201602876
+	--------------------------------------------------------------------------------------------
+
+	Verifying UPI Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	1. Procced for payment
+	2. Re-Enter UPI Number 
+	3. Go Back to All UPI Payments Options
+	4. Main Menu
+	5. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	--------------------------------------------------------------------------------------------
+
+				======>  All Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1. UPI
+	2. CREDIT/DEBIT  CARD
+	3. Change Recharge Plan
+	4. Return to Main Menu
+	5. Cancel Payment & Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  All UPI Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Google Pay
+	2.Phone Pay
+	3.Paytm
+	4.Change Payment Option
+	5.Return to Main Menu
+	6.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  Wellcome to Google Pay  <======
+
+	------------------------------------------------------------------------------------------
+	Enter UPI number: 6201602876
+	--------------------------------------------------------------------------------------------
+
+	Verifying UPI Number ⌛⏳⌛⏳⌛⏳
+	-------------------------------------------------------
+	1. Procced for payment
+	2. Re-Enter UPI Number
+	3. Go Back to All UPI Payments Options
+	4. Main Menu
+	5. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+	Initaiting  transaction ⌛⏳⌛⏳
+	---------------------------------------------------------
+
+	Enter Your UPI pin: 897654
+	-------------------------------------------------------
+	---------------------------------------------------------
+
+	Connecting Securly 🕕🕒🕓🕔🕕🕖
+	------------------------------------------------------------
+
+	Recharge of INR 301.00 is successful for your Airtel  Mobile 6301602876 
+	on 08-11-2023 17:59:29, Transaction ID 959491059 (Reference No 879724925893).
+	----------------------------------------------------------------------------
+			 Thanks For Choosing Us
+			         Airtel
+
+	-------------------------------------------------------
+	Recharge a different Mobile Number
+	1. Yes
+	2. No
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	-------------------------------------------------------
+	Enter your Mobile Number: 8069705243
+	--------------------------------------------------------
+
+	Verifying Mobile Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+
+	Select your SIM {operator} type 
+	1. Jio
+	2. Airtel
+	3. V!
+	4. BSNL
+	5. Change Mobile Number
+	6. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 4
+	--------------------------------------------------------------------------------------------
+
+				======>  BSNL Recharge Plans  <======
+
+	---------------------------------------------------------------------------------------------
+
+	Select Your Pack  
+	1.  BEST SELLING PACKS
+	2.  DATA PACKS
+	3.  SPECIAL RECHARGE
+	4.  FULL TAIKTIME
+	5.  TOP UP
+	6.  2G DATA
+	7.  ROAMING
+	8.  I know`My Plan
+	9.  Change Operator
+	10. Go To Main Menu
+	11. Change Mobile Number
+	12. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	--------------------------------------------------------------------------------------------
+
+				======>  SPECIAL RECHARGE  <======
+
+	---------------------------------------------------------------------------------------------
+	₹99		Validity:
+	     		18 Days
+	Unlimited Voice calls (local/STD) any-net in home LSA and national 
+	roaming including Delhi and Mumbai
+	--------------------------------------------------------------------------------------------
+	₹49		Data:			Validity:
+	     		1 GB 			15 Days
+	100mins Calls +1 GB Data for 15 days
+	--------------------------------------------------------------------------------------------
+	Best Seller
+	₹118		Data:			Validity:
+	     		Unlimited(0.5GB/day) 	20 Days
+	
+	--------------------------------------------------------------------------------------------
+	Top Pack
+	₹153		Data:			Validity:
+	     		Unlimited(1GB/day) 	26 Days
+	Unlimited voice (Local/STD) any-net in Home LSA and National roaming incl. MTNL network 
+	in Mumbai and Delhi + Unlimited data with speed reduced to 40Kbps after 1GB/day + 100 SMS/day 
+	to Any N/w Including while Roaming in Mumbai and New Delhi + Free PRBT Charges after freebies 
+	are as follows: Voice call charges: Local calls Rs 1/min, STD calls Rs 1.3/min Video Calls: 
+	Local/STD- Rs 2/min SMS: Local 80p/SMS, National: Rs 1.20/SMS International: Rs 5/SMS Data 
+	Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	₹94		Data:			Validity:
+	     		3 GB 			30 Days
+	200 Minutes voice Calls(LOCAL/NATIONAL) + 3GB Data for 30 days
+	--------------------------------------------------------------------------------------------
+	Best Seller	₹187		Data:		Validity:
+	     		Unlimited(1.5GB/day) 		28 Days
+	Unlimited Voice calls anynet Local/STDRoaming incl. Mumbai and Delhi + Unlimited data with 
+	speed reduced to 40 kbps after 1.5GB/day + 100 SMS/ day + Free PRBT.
+	--------------------------------------------------------------------------------------------
+	₹105		Data:			Validity:
+	     		2 GB 			18 Days
+	Unlimited voice (Local/STD) any-net in Home LSA and National roaming incl. MTNL network in 
+	Mumbai and Delhi + Unlimited data with speed reduced to 40Kbps after 1GB/day + 100 SMS/day to 
+	Any N/w Including while Roaming in Mumbai and New Delhi + Free PRBT Charges after freebies are 
+	as follows: Voice call charges: Local calls Rs 1/min, STD calls Rs 1.3/min Video Calls: 
+	Local/STD- Rs 2/min SMS: Local 80p/SMS, National: Rs 1.20/SMS International: Rs 5/SMS 
+	Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	Trending
+	₹107		Data:			Validity:
+	     		3 GB 			35 Days
+	3GB free data + 200 Min free voice anynet Local/STD/Roaming incl. MTNL network+ 
+	free BSNL Tune for 35 days
+	--------------------------------------------------------------------------------------------
+	₹18		Data:			Validity:
+	     		Unlimited(1GB/day) 	2 Days
+	Truly unlimited voice including MTNL roaming area of Delhi and Mumbai+ U/L Data with speed 
+	reduced to 40 Kbps after 1GB/day
+	--------------------------------------------------------------------------------------------
+	₹19		Validity:
+	     		21 Days
+	VAS Package including SMS and WAP Plan extension cannot be done with this VAS dedicated STV
+	--------------------------------------------------------------------------------------------
+	₹23		Validity:
+	     		30 Days
+	23 minutes of consultation on IVR.No charge till free minutes and Rs.9/ min will be charged after 
+	availing free minutes from dedicated STVs.Plan Validity extension cannot be done with this VAS dedicated STVs
+	--------------------------------------------------------------------------------------------
+	₹31		Validity:
+	     		30Days
+	31 minutes of consultation on IVR.No charge till free minutes and Rs.9/ min will be charged after availing 
+	free minutes from dedicated STVs.Plan Validity extension cannot be done with this VAS dedicated STVs
+	--------------------------------------------------------------------------------------------
+	₹35		Validity:
+	     		30 Days
+	STV is exclusively for the M/S APSRTC Enterprise customers only.
+	--------------------------------------------------------------------------------------------
+	₹36		Validity:
+	     		30 Days
+	STV is exclusively for the M/S TSRTC Enterprise customers only.
+	--------------------------------------------------------------------------------------------
+	₹37		Validity:
+	     		30 Days
+	SMS(News Pack: Sports Pack: Jokes Pack: Love Pack: Shayari Pack)
+	--------------------------------------------------------------------------------------------
+	₹48		Talktime:	Validity:
+	     		₹10 		30 Days
+	Rs.10 usage value in main account + 20 paisa/min on-net calls + 20 paisa/ min off-net calls in 
+	home LSA and National roaming including MTNL network in Mumbai and Delhi.Plan extension 
+	cannot be done with this voucher
+	--------------------------------------------------------------------------------------------
+	₹65		Validity:
+	     		30 Days
+	Voice calls @Rs.1.49/min to Canada USA Singapore and China. Voice calls @Rs.2.49/min for 
+	Bangladesh Malaysia Hong Kong Voice calls @Rs.6.49 /min to Bahrain.Voice calls to 
+	Nepal @Rs.9.50/min International SMS to these countries @ Rs.3/SMS.This STV will not be 
+	applicable in MTNL area of Mumbai and Delhi.This STV will be available in BSNL Home PLMN 
+	and national roaming in BSNL network only.
+	--------------------------------------------------------------------------------------------
+	₹87		Data:			Validity:
+	     		Unlimited(1GB/day) 	14 Days
+	U/L voice calls (Local/STD) any-net in Home LSA and National Roaming (incl. Mumbai and 
+	Delhi)+ 1GB/day (Speed reduced to 40Kbps after 1GB/ day)
+	--------------------------------------------------------------------------------------------
+	₹97		Data:			Validity:
+	     		Unlimited(2GB/day) 	15 Days
+	Unlimited Local/STD/roaming calls incl. Mumbai and Delhi + Unlimited Data 
+	speed reduced to 40kbps after 2GB/day + Lokdhun content.
+	--------------------------------------------------------------------------------------------
+	₹139		Data:			Validity:
+	     		Unlimited(1.5GB/day) 	28 Days
+	Unlimited Voice calls anynet Local/STDRoaming incl. Mumbai and Delhi + Unlimited data with speed 
+	reduced to 40 kbps after 1.5GB/day. Only for GP2 and beyond GP2 subscribers
+	--------------------------------------------------------------------------------------------
+	₹147		Data:			Validity:
+	     		10 GB 			30 Days
+	Unlimited Local/STD calls to Any Network while in Home LSA and in National roaming including 
+	MTNL network roaming area of New Delhi and Mumbai + 10 GB Data + BSNL tunes
+	--------------------------------------------------------------------------------------------
+	₹167		Validity:
+	     		90 Days
+	Activation/extension of pre-paid International roaming-It is mandatory to replace Normal SIM 
+	with International Roaming SIM to avail International Roaming services.
+	--------------------------------------------------------------------------------------------
+	₹181		Validity:
+	     		30 Days
+	23800 Sec Local/STD Voice Calls to Any N/w
+	--------------------------------------------------------------------------------------------
+	₹184		Data:			Validity:
+	     		Unlimited(1GB/day) 	28 Days
+	unlimited voice calls + Unlimited Data with speed reduced to 40 Kbps after 1GB/Day + 100 SMS/day+ 
+	BSNL Tunes for 28 days
+	--------------------------------------------------------------------------------------------
+	₹185		Data:			Validity:
+	     		Unlimited(1GB/day) 	28 Days
+	Unlimited voice calls (Any Net) in Home LSA and National Roaming including MTNL network in Mumbai 
+	and Delhi + Unlimited data with speed reduced to 40kbps after 1GB/day +100 SMS to any nw incl. while 
+	roaming in Mumbai and New Delhi + Bundling of Challenges Arena Mobile Gaming Service on Progressive 
+	web APP(PWA) by M/S Onmobile Global limited + BSNL Tunes.
+	--------------------------------------------------------------------------------------------
+	₹186		Data:			Validity:
+	     		Unlimited(1GB/day) 	28 Days
+	Unlimited voice calls (Any Net) in Home LSA and National Roaming including MTNL network in Mumbai 
+	and Delhi + Unlimited data with speed reduced to 40kbps after 1GB/day +100 SMS to any nw incl. while 
+	roaming in Mumbai and New Delhi + Hardy Games service + BSNL Tunes
+	--------------------------------------------------------------------------------------------
+	₹197		Data:			Validity:
+	     		Unlimited(2GB/day) 	70 Days
+	unlimited voice calls + Unlimited Data with speed reduced to 40 Kbps after 2GB/day+ 100SMS/day. 
+	All freebies valid for first 15 days only. Main Validity 70 days
+	--------------------------------------------------------------------------------------------
+	₹199		Data:			Validity:
+	     		Unlimited(2GB/day) 	30 Days
+	Unlimited voice calls(Local/STD) any-net in Home LSA and national roaming including MTNL network 
+	in Mumbai and Delhi + Unlimited data with speed reduced to 40Kbps after 2GB/day + 100 SMS/day to 
+	Any N/w Including while Roaming in Mumbai and New Delhi.Charges after freebies are as follows:
+	Voice call charges: Local calls Rs 1/min, STD calls Rs 1.3/ min Video Calls : Local/STD:- Rs 2/min
+	 SMS: Local 80p/SMS, National: Rs 1.20/SMS International: Rs 5/SMS Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	₹201		Data:			Validity:
+	     		6 GB 			90 Days
+	PV for GP-II and beyond GP-II customers only. Free voice 300 min.6GB data.99 SMS.All other terms and conditions as 
+	per plan 107.Freebies will be applicable for whole validity period.
+	--------------------------------------------------------------------------------------------
+	₹209		Talktime:		Validity:
+	     		 ₹25			84 Days
+	Rs.25 + Rate cutter all calls @ 1p/2sec in home LSA for 84 days
+	--------------------------------------------------------------------------------------------
+	₹228		Data:			Validity:
+	     		Unlimited(2GB/day) 	30 Days
+	Unlimited voice calls Local/STD/Roaming incl. MTNL network+ Unlimited data with speed reduced 
+	to 40 kbps after 2GB/day + 100 SMS/day + Bundling of Challenges Arena Mobile Gaming Service on 
+	Progressive Web App (PWA) by M/s Onmobile Global Limited
+	--------------------------------------------------------------------------------------------
+	₹229		Data:			Validity:
+	     		Unlimited(2GB/day) 	30 Days
+	Unlimited voice (Local/STD) any-net in Home LSA and national roaming incl. MTNL network in
+	Mumbai and Delhi + Unlimited data with speed reduced to 40 Kbps after 2GB/day + free 100 SMS/day + 
+	Bundling of Challenges Arena Mobile Gaming Service on Progressive Web App(PWA)
+	--------------------------------------------------------------------------------------------
+	₹239		Talktime:		Data:			Validity:
+	     		₹10			Unlimited(2GB/day) 	30 Days
+	Unlimited voice calls Local/STD/Roaming incl.MTNL network+ Unlimited data with speed reduced to 
+	40 kbps after 2GB/day+ 100 SMS/day+ Bundling of Challenges Arena Mobile Gaming Service on Progressive 
+	Web App (PWA) by M/s Onmobile Global Limited + Rs.10 Talk value in Main Account balance Freebies 
+	validity of 1 month is not applicable to Rs.10 in main account balance
+	--------------------------------------------------------------------------------------------
+	₹247		Talktime:		Data:			Validity:
+	     		₹10			Unlimited	 	30 Days
+	Rs.10 Talk Value in Main account balance + 50GB Data at high speed (Post which unlimited @ 40 Kbps) + U/L voice + 100SMS/day + BSNL Tunes and 
+	EROS now entertainment services. Freebies Validity of 30 days is not applicable for Rs.10 in main account balance
+	--------------------------------------------------------------------------------------------
+	₹269		Data:			Validity:
+	     		Unlimited(2GB/day) 	28 Days
+	U/L voice calls (Local/STD) any-net in Home LSA and National Roaming (incl. Mumbai and Delhi) + 
+	U/L Data with speed reduced to 40Kbps after 2GB/day + 100 SMS/ day incl. MTNL area Mumbai and Delhi 
+	+ BSNL Tunes + EROS Now service + Hardy Mobile Games service by M/S ONE97 communications limited + 
+	Challenges Arena Mobile Gaming Service on Progressive Web App(PWA) by M/s Onmobile Global Ltd + 
+	Astrotell and GameOn services by M/s Ubarri Marketing Private Limited + GAMEIUM premium gaming 
+	application by M/S ADVYSORS INC.
+	--------------------------------------------------------------------------------------------
+	₹298		Data:			Validity:
+	     		Unlimited(3GB/day) 	30 Days
+	Unlimited Voice calls (Local/STD/Roaming-including while roaming in Mumbai and Delhi) to any network + 
+	Unlimited free Data with speed reduced to 40 Kbps after 1GB/day+ 100 SMS/day Local/STD/ Roaming-incl
+	while roaming in Mumbai and Delhi to any network+ EROS NOW Entertainment Services
+	--------------------------------------------------------------------------------------------
+	₹299		Data:			Validity:
+	     		Unlimited(3GB/day) 	30 Days
+	unlimited voice calls+Unlimited Data with speed reduced to 40 Kbps after 3GB/day+100SMS/day For30 days.
+	--------------------------------------------------------------------------------------------
+	₹319		Data:			Validity:
+	     		10 GB 			65 Days
+	U/L Voice calls (Local/STD) Any-Net in Home LSA and National Roaming including MTNL network Mumbai and 
+	Delhi + 300 SMS + 10 GB DATA
+	--------------------------------------------------------------------------------------------
+	₹347		Data:			Validity:
+	     		Unlimited(2GB/day) 	54 Days
+	Unlimited voice calls (Any Net) in Home LSA and National Roaming including MTNL network in Mumbai and 
+	Delhi + Unlimited data with speed reduced to 40kbps after 2GB/day +100 SMS to any nw incl. while roaming 
+	in Mumbai and New Delhi + Bundling of Challenges Arena Mobile Gaming Service on Progressive web APP(PWA) 
+	by M/S Onmobile Global limited
+	--------------------------------------------------------------------------------------------
+	₹396		Data:			Validity:
+	     		Unlimited	 	90 Days
+	Unlimited calls to Any Network, including while roaming in Mumbai & New Delhi+100 SMS/day to Any Network, 
+	including while roaming in Mumbai & New Delhi + 120 GB (Speed reduced to 40kbps after 120 GB) & U/I free night 
+	data during (0000 hours to 0500hours). Validity 90 days.
+	--------------------------------------------------------------------------------------------
+	₹397		Data:			Validity:
+	     		Unlimited(2GB/day) 	150 Days
+	Unlimited Voice calls Local/STD/roaming incl. MTNL network for 30 days + Unlimited Data with speed reduced to 
+	40 kbps after 2 GB/day for 30 days +100 SMS/day for 30 days. All Freebies valid for 30 days only. Plan validity is 150 days.
+	--------------------------------------------------------------------------------------------
+	₹398		Data:			Validity:
+	     		Unlimited 		70 Days
+	Unlimited Data with speed reduced to 40 kbps after 120 GB + unlimited voice calls +100 SMS/day for 30 days
+	--------------------------------------------------------------------------------------------
+	₹399		Data:			Validity:
+	     		Unlimited(1GB/day) 	70 Days
+	
+	--------------------------------------------------------------------------------------------
+	₹401		Validity:
+	     		60 Days
+	Free 800 Min Local or STD Calls to any Network while in Home LSA
+	--------------------------------------------------------------------------------------------
+	₹439		Validity:
+	     		90 Days
+	Unlimited voice calls (Local/STD) any-net in Home LSA and national roaming including MTNL network in
+	Mumbai and Delhi + 300 SMS
+	--------------------------------------------------------------------------------------------
+	₹485		Data:			Validity:
+	     		Unlimited(1.5GB/day) 	82 Days
+	Unlimited voice calls/Day any-net (Local/STD) in Home LSA and Roaming including Mumbai and Delhi +  
+	Unlimited Data with speed restricted to 40 Kbps after 1.5GB Data/day+ 100 SMS/day to Any N/w Including 
+	while Roaming in Mumbai and New Delhi.
+	--------------------------------------------------------------------------------------------
+	₹499		Data:			Validity:
+	     		Unlimited(2GB/day) 	75 Days
+	Unlimited voice calls (Local/STD) any-net in Home LSA and National Roaming (including 
+	Mumbai and Delhi) + U/L Data with speed reduced to 40Kbps after 2GB/day+ 100 SMS/day is including 
+	MTNL area Mumbai and Delhi + BSNL Tunes + GAMEIUM premium gaming application by M/s ADVYSORS INC.
+	--------------------------------------------------------------------------------------------
+	₹599		Data:			Validity:
+	     		Unlimited(3GB/day) 	84 Days
+	unlimited voice calls + Unlimited Data (speed restricted to 40 Kbps after 3GB/day) + 100 SMS/day for
+	 84 days +BSNL Tunes (PRBT) + ZING+ PRBT + Astrotell andGameOn services by M/s Ubarri Marketing Private
+	 Limited+along with unlimited free night data during (00:00 hours to 05:00hours)
+	--------------------------------------------------------------------------------------------
+	₹666		Data:			Validity:
+	     		Unlimited(2GB/day) 	105 Days
+	Unlimited voice calls/Day any-net (Local/STD) in Home LSA and Roaming incl. Mumbai and Delhi + Unlimited 
+	data (speed restricted to 40 kbps after 2GB/day) + 100 SMS/day is including MTNL area Mumbai and Delhi 
+	+ BSNL tune + Bundling of Astrotell and GameOn services by M/s Ubarri Marketing Private Limited
+	--------------------------------------------------------------------------------------------
+	₹699		Data:			Validity:
+	     		Unlimited(2GB/day) 	130 Days
+	Unlimited free voice calls in home and national roaming including MTNL network roaming area of Delhi and 
+	Mumbai.Unlimited free data with speed reduced to 40 kbps after 0.5GB/day.100 SMS/day is including MTNL area 
+	Mumbai and Delhi.Free PRBT for first 60 days.Base plan/All other tariff terms and Conditions as per "Per Min 
+	plan". Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min, STD calls Rs 1.3/min 
+	Video Calls: Local/STD:- Rs 2/min SMS: Local 80p/SMS, National: Rs 1.20/ SMS International: Rs 5/SMS Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	₹769		Data:			Validity:
+	     		Unlimited(2GB/day) 	84 Days
+	U/L voice + U/L Data with speed reduced to 40Kbps after 2GB/day +100SMS/day + BSNL Tunes + EROS
+	 Now Entertainment service + Hardy Mobile Games service by M/S ONE97 communications limited + 
+	Challenges Arena Mobile Gaming Service on Progressive Web App(PWA) by M/s Onmobile Global Ltd + 
+	Lystn music services provided by M/s Tellyfonic Digital Media + Lokdhun+ Zing + Astrotell and GameOn 
+	services by M/s Ubarri Marketing Private Limited + GAMEIUM premium gaming application by M/s ADVYSORS INC
+	--------------------------------------------------------------------------------------------
+	₹797		Data:			Validity:
+	     		Unlimited(2GB/day) 	300 Days
+	Unlimited Voice calls Local/STD/roaming incl.MTNL network for 60days + Unlimited Data with speed
+	reduced to 40 kbps after 2 GB/day for 60days + 100 SMS/day for 60days. Freebies valid for first 60 days 
+	only. Plan validity is 300 days
+	--------------------------------------------------------------------------------------------
+	₹997		Data:			Validity:
+	     		Unlimited(2GB/day) 	160 Days
+	Unlimited voice (Local/STD) (on-net/off-net) in Home LSA and national roaming incl. Mumbai and Delhi
+	 + Unlimited Data speed reduced to 40kbps after 2GB/day + 100 SMS/day to Any N/w Including while 
+	Roaming in Mumbai and New Delhi for 160 days. PRBT for 2 months. Charges after freebies are as follows: 
+	Voice call: Local 2p/sec.
+	--------------------------------------------------------------------------------------------
+	₹999		Validity:
+	     		200 Days
+	Unlimited voice Local/STD calls any net in Home LSA and national roaming including MTNL network 
+	in Mumbai and Delhi for 200 days + PRBT for 2 months. Charges after freebies are as follows:
+	 Voice call charges: Local calls Rs 1/min, STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: 
+	Local 80p/SMS, National: Rs 1.20/SMS International: Rs 5/SMS Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	₹1198		Data:			Validity:
+	     		36 GB 			365 Days
+	300min any-net voice calls in Home LSA national roaming including MTNL area of Mumbai and Delhi+3GB 
+	Data+30SMS) per month for 12 months/ 365days.
+	--------------------------------------------------------------------------------------------
+	₹1499		Data:			Validity:
+	     		24 GB 			326 Days
+	Unlimited free voice calls in home and national roaming including MTNL network roaming area of Delhi 
+	and Mumbai. The 100 Free SMS/daywill be applicable in home and national roaming including MTNL network 
+	roaming area of Delhi and Mumbai.Base plan/All other tariff terms and Conditions as per Advance Per 
+	minute plan 94.Free data 24GB.Charges after freebies are as follows: Voice call charges: Local calls 
+	Rs 1/min, STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS, National: 
+	Rs 1.20/ SMS International: Rs 5/SMS Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	₹1999		Data:			Validity:
+	     		Unlimited 		365 Days
+	600GB (regular) Data at high speed (Post which unlimited @ 40 Kbps) + U/ L voice + 100SMS/day + 
+	Free PRBT with unlimited song change option(30 days) + Lokdhun content (30 days) + EROS NOW Entertainment 
+	Service. (30 days). Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min, 
+	STD calls Rs 1.3/min Video Calls: Local/STD:- Rs 2/min SMS: Local 80p/SMS, National: Rs 1.20/SMS 
+	International: Rs 5/SMS Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	₹2399		Data:			Validity:
+	     		Unlimited(2GB/day) 	395 Days
+	Unlimited voice Local/STD calls any net in Home LSA and national roaming incl. MTNL network in Mumbai 
+	and Delhi + Unlimited data (speed reduced to 40 kbps after 2GB/day) + 100 SMS/day including MTNL area 
+	Mumbai and Delhi + Free PRBT for 30 days + Free EROS Now entertainment services for 30days+Lokdhun for 30 
+	daysCharges after freebies are as follows: Voice call charges: Local calls Rs 1/min, STD calls Rs 1.3/min 
+	Video Calls : Local/ STD:- Rs 2/min SMS: Local 80p/SMS, National: Rs 1.20/SMS International: Rs 5/SMS 
+	Data Charges 25p/MB.
+	--------------------------------------------------------------------------------------------
+	₹2999		Data:			Validity:
+	     		Unlimited(3GB/day) 	395 Days
+	Unlimited voice Local/STD calls any net in Home LSA and national roaming incl. MTNL network in Mumbai 
+	and Delhi + Unlimited data (speed reduced to 40 kbps after 2GB/day) + 100 SMS/day including MTNL area 
+	Mumbai and Delhi + Free PRBT for 30 days + Free EROS Now entertainment services for 30days+Lokdhun for 
+	30 daysCharges after freebies are as follows: Voice call charges: Local calls Rs 1/min, STD calls 
+	Rs 1.3/min Video Calls : Local/ STD:- Rs 2/min SMS: Local 80p/SMS, National: Rs 1.20/SMS International: 
+	Rs 5/SMS Data Charges 25p/MB.
+	--------------------------------------------------------------------------------------------
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	--------------------------------------------------------------------------------------------
+
+				======> Confrim Your Recharge Plan to Proceed  <======
+
+	---------------------------------------------------------------------------------------------
+
+	1.Select Your Plan Amount
+	2.Get All Pack Details List
+	3.Change Operator
+	4.Go Back to Main Menu
+	5.Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+
+	Disclaimer: We support most types of recharges, but please check with your operator before you proceed
+	-----------------------------------------------------------------------------------------------------
+	Enter Your Plan Amount : 1499
+	--------------------------------------------------------------------------------------------
+
+	Verifying Plan ⌛⏳⌛⏳
+	--------------------------------------------------------------------------------------------
+
+				======>  Your Pack Details  <======
+				======>       BSNL          <======
+	--------------------------------------------------------------------------------------------
+
+	₹1499		Data:			Validity:
+	     		24 GB 			326 Days
+	Unlimited free voice calls in home and national roaming including MTNL network roaming area of Delhi 
+	and Mumbai. The 100 Free SMS/daywill be applicable in home and national roaming including MTNL network 
+	roaming area of Delhi and Mumbai.Base plan/All other tariff terms and Conditions as per Advance Per 
+	minute plan 94.Free data 24GB.Charges after freebies are as follows: Voice call charges: Local calls 
+	Rs 1/min, STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS, National: 
+	Rs 1.20/ SMS International: Rs 5/SMS Data Charges 25p/MB
+	--------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------
+
+				======>  All Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1. UPI
+	2. CREDIT/DEBIT  CARD
+	3. Change Recharge Plan
+	4. Return to Main Menu
+	5. Cancel Payment & Exit
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+				======>  All UPI Payment Options  <======
+
+	---------------------------------------------------------------------------------------------
+	1.Google Pay
+	2.Phone Pay
+	3.Paytm
+	4.Change Payment Option
+	5.Return to Main Menu
+	6.Cancel Payment and Exit
+	--------------------------------------------------------
+	Choose Your  Option : 3
+	--------------------------------------------------------------------------------------------
+
+				======>  Wellcome to Patym  <======
+
+	------------------------------------------------------------------------------------------
+	Enter UPI number: 8069705243
+	--------------------------------------------------------------------------------------------
+
+	Verifying UPI Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	1. Procced for payment
+	2. Re-Enter UPI Number  
+	3. Go Back to All UPI Payments Options
+	4. Main Menu
+	5. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+	--------------------------------------------------------------------------------------------
+
+				======>  Wellcome to Patym  <======
+
+	------------------------------------------------------------------------------------------
+	Enter UPI number: 6201382738
+	--------------------------------------------------------------------------------------------
+
+	Verifying UPI Number ⌛⏳⌛⏳
+	-------------------------------------------------------
+	1. Procced for payment
+	2. Re-Enter UPI Number  
+	3. Go Back to All UPI Payments Options
+	4. Main Menu
+	5. Exit
+
+	--------------------------------------------------------
+	Choose Your  Option : 1
+	--------------------------------------------------------------------------------------------
+
+	Initaiting  transaction ⌛⏳⌛⏳
+	---------------------------------------------------------
+
+	Enter Your UPI pin: 1234
+	-------------------------------------------------------
+	---------------------------------------------------------
+
+	Connecting Securly 🕕🕒🕓🕔🕕🕖
+	------------------------------------------------------------
+
+	Recharge of INR 1499.00 is successful for your BSNL  Mobile 8069705243 
+	on 08-11-2023 18:02:10, Transaction ID 491715714 (Reference No 457532797062).
+	------------------------------------------------------------------------------
+			 Thanks For Choosing Us
+			         BSNL
+
+	-------------------------------------------------------
+	Recharge a different Mobile Number
+	1. Yes
+	2. No
+
+	--------------------------------------------------------
+	Choose Your  Option : 2
+
+	=================================================================
+			         Exit was Successfull
+			           Java is awesome
+	=================================================================
