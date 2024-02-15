@@ -10,6 +10,8 @@ Payment Integration: Integration with payment gateways to process transactions.
 Updates: Users receive real-time updates on their recharge status (in console itself).
 Transaction History: Track and view transaction history for better management.
 Admin Dashboard: Administrators can check accounts and monitor transactions.
+
+
 Technologies Used
 Core Java: Development language for building the application's backend logic.
 MySQL: Database management system for storing user and transaction data.
