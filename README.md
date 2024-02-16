@@ -23,4 +23,4 @@ Technologies Used
 
 Core Java: Development language for building the application's backend logic.
 
-MySQL: Database management system for storing user and transaction data.
+SQL(Oracle): Database management system for storing user and transaction data.
